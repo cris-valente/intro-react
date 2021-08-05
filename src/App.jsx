@@ -89,7 +89,7 @@ class App extends React.Component {
       <div>
         <div className="Box Box--spacious f4">
           <div className="Box-header">
-            {/* Replace this line with the proper header code*/}
+            <header>GradeBook</header>
           </div>
         </div>
         <nav className="UnderlineNav d-flex flex-justify-center">
